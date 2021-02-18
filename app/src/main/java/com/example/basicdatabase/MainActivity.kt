@@ -4,7 +4,7 @@ import User
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import app.com.kotlipapp.R
+import app.com.basicdatabase.R
 import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
    override fun onCreate(savedInstanceState: Bundle?) {
